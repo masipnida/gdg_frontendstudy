@@ -71,3 +71,7 @@ export default defineConfig([
   },
 ])
 ```
+
+## 신채민 그녀는 리액트를 정복할 것이다
+
+아자아자화이자!
